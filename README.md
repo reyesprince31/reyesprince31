@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Prince Reyes
 
-I'm a passionate frontend React developer with a solid foundation in full-stack development. My journey in the world of software engineering has equipped me with a diverse set of skills and a commitment to creating exceptional user experiences.
+I'm a passionate frontend React developer with knowledge in full-stack development. My journey in the world of Web Development has equipped me with a diverse set of skills and a commitment to creating exceptional user experiences.
 
 ## 🚀 Skills and Expertise
 
