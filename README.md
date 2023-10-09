@@ -1,15 +1,52 @@
 ### Hi there 👋, I'm Prince Reyes
-A FrontEnd React Developer, with a background in FullStack Development
+
+I'm a passionate frontend React developer with a solid foundation in full-stack development. My journey in the world of software engineering has equipped me with a diverse set of skills and a commitment to creating exceptional user experiences.
+
+## 🚀 Skills and Expertise
+
+### Frontend Development
+- **Languages:** JavaScript (ES6+), HTML5, CSS3
+- **Libraries/Frameworks:** React.js, Redux & RTK, React-Router-Dom
+- **Responsive Design:** Bootstrap, CSS Grid, Flexbox, TailwindCSS
+- **State Management:** Redux, Context API
+- **API Integration:** RESTful APIs
+
+### Backend Development
+- **Languages:** Node.js, Python
+- **Web Frameworks:** Express.js
+- **Database:** MongoDB, MySQL
+- **Authentication/Authorization:** JWT, OAuth
+- **RESTful API Design**
+
+### Full-Stack Tools
+- **Version Control:** Git, GitHub
 
 
-- 🔭 I’m currently working on an Online Shop project using the MERN Stack for my cousin.
-- 🌱 I’m currently learning FrontEnd Development to enhance my skills and stay up-to-date with the latest technologies.
-- 👯 I’m looking to collaborate on exciting React projects or anything related to FrontEnd development.
-- 🤔 I’m looking for help with optimizing performance in React applications.
-- 💬 Ask me about anything related to React, FrontEnd development, or my experiences in FullStack development.
-- 📫 How to reach me: [Insert Your Contact Information]
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can spend hours tweaking the UI to make it pixel-perfect!
+### Other Skills
+- **Responsive Web Design**
+- **Web Performance Optimization**
+- **Cross-Browser Compatibility**
+- **Code Review and Collaboration**
 
+## 🌱 What I'm Currently Learning
+I'm always looking for opportunities to learn and grow. Currently, I'm diving deeper into:
+- Next.js for server-side rendering in React applications
+- GraphQL for efficient and flexible API development
+- Microservices architecture for scalable applications
 
-Feel free to connect or ask me anything related to development. Let's build awesome things together! 😄
+## 🔧 Tools and Technologies
+- **Code Editor:** Visual Studio Code
+- **Design:** Figma
+- **Task Management:** Jira
+
+## 📫 Let's Connect
+Feel free to reach out to me! Whether it's about collaboration, job opportunities, or just a friendly chat, I'm open to connecting.
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/reyesprince/)
+- Portfolio: [Your Portfolio Website](https://www.yourportfolio.com)
+
+## 🎯 My GitHub Stats
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=issues)](https://github.com/your-username)
+
+<!-- Optional: Add additional sections like projects, blog posts, or languages and tools you use. -->
+
+Thanks for visiting my profile! 😄
