@@ -45,7 +45,7 @@ Feel free to reach out to me! Whether it's about collaboration, job opportunitie
 - Portfolio: [Your Portfolio Website](https://portfolio-reyesprince31.vercel.app/)
 
 ## 🎯 My GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=issues)](https://github.com/your-username)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=reyesprince31&show_icons=true&hide=issues)](https://github.com/reyesprince31)
 
 <!-- Optional: Add additional sections like projects, blog posts, or languages and tools you use. -->
 
