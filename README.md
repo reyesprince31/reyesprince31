@@ -46,7 +46,7 @@ Feel free to reach out to me! Whether it's about collaboration, job opportunitie
 
 ## 🎯 My GitHub Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=reyesprince31&show_icons=true&hide=issues&theme=radical)](https://github.com/reyesprince31)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyesprince31)](https://github.com/reyesprince31/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyesprince31&layout=compact)](https://github.com/reyesprince31/github-readme-stats)
 
 <!-- Optional: Add additional sections like projects, blog posts, or languages and tools you use. -->
 
