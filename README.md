@@ -42,7 +42,7 @@ I'm always looking for opportunities to learn and grow. Currently, I'm diving de
 ## 📫 Let's Connect
 Feel free to reach out to me! Whether it's about collaboration, job opportunities, or just a friendly chat, I'm open to connecting.
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/reyesprince/)
-- Portfolio: [Your Portfolio Website](https://www.yourportfolio.com)
+- Portfolio: [Your Portfolio Website](https://portfolio-reyesprince31.vercel.app/)
 
 ## 🎯 My GitHub Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=issues)](https://github.com/your-username)
