@@ -30,6 +30,7 @@ I am a dedicated Fullstack developer with a primary focus on the MERN stack (Mon
 
 ## 🌱 What I'm Currently Learning
 I'm always looking for opportunities to learn and grow. Currently, I'm diving deeper into:
+- Typescript for robust type checking to identify and address bugs early in the development process.
 - Next.js for server-side rendering in React applications
 - GraphQL for efficient and flexible API development
 - Microservices architecture for scalable applications
