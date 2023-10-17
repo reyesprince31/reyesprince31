@@ -1,14 +1,14 @@
 ### Hi there 👋, I'm Prince Reyes
 
-I'm a passionate Fullstack React developer. My journey in the world of Web Development has equipped me with a diverse set of skills and a commitment to creating exceptional user experiences.
+I am a dedicated Fullstack developer with a primary focus on the MERN stack (MongoDB, Express, React, Node). However, I am always eager to broaden my horizons and explore various technology stacks once I have established a strong foundation in order to craft sophisticated web applications in the future. My journey in the realm of web development has equipped me with a versatile skill set and a steadfast dedication to crafting outstanding user experiences.
 
 ## 🚀 Skills and Expertise
 
 ### Frontend Development
 - **Languages:** JavaScript (ES6+), HTML5, CSS3
-- **Libraries/Frameworks:** React.js, Redux & RTK, React-Router-Dom
+- **Libraries/Frameworks:** React.js, Redux & RTK, React-Router-Dom, Styled-Components
 - **Responsive Design:** Bootstrap, CSS Grid, Flexbox, TailwindCSS
-- **State Management:** Redux, Context API
+- **State Management:** Redux, Context API, React-Query
 - **API Integration:** RESTful APIs
 
 ### Backend Development
