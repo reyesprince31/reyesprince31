@@ -6,15 +6,15 @@ I am a dedicated Fullstack developer with a primary focus on the MERN stack (Mon
 
 ### Frontend Development
 - **Languages:** JavaScript (ES6+), HTML5, CSS3
-- **Libraries/Frameworks:** React.js, Redux & RTK, React-Router-Dom, Styled-Components
+- **Libraries/Frameworks:** React.js, Next.js, Typescript, Redux & RTK, React-Router-Dom, Styled-Components
 - **Responsive Design:** Bootstrap, CSS Grid, Flexbox, TailwindCSS
 - **State Management:** Redux, Context API, React-Query
 - **API Integration:** RESTful APIs
 
 ### Backend Development
 - **Languages:** Node.js, Python
-- **Web Frameworks:** Express.js
-- **Database:** MongoDB, MySQL
+- **Web Frameworks:** Express.js, Supabase, Appwrite
+- **Database:** MongoDB, MySQL, Postgress
 - **Authentication/Authorization:** JWT, OAuth
 - **RESTful API Design**
 
