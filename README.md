@@ -2,6 +2,8 @@
 
 I am a dedicated Fullstack developer with a primary focus on the MERN stack (MongoDB, Express, React, Node). However, I am always eager to broaden my horizons and explore various technology stacks once I have established a strong foundation in order to craft sophisticated web applications in the future. My journey in the realm of web development has equipped me with a versatile skill set and a steadfast dedication to crafting outstanding user experiences.
 
+![Visitor Count](https://profile-counter.glitch.me/{reyesprince31}/count.svg)
+
 ## 🚀 Skills and Expertise
 
 ### Frontend Development
