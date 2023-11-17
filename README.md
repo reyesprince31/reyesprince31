@@ -44,13 +44,18 @@ I'm always looking for opportunities to learn and grow. Currently, I'm diving de
 
 ## 📫 Let's Connect
 Feel free to reach out to me! Whether it's about collaboration, job opportunities, or just a friendly chat, I'm open to connecting.
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/reyesprince/)
-- Portfolio: [Your Portfolio Website](https://portfolio-reyesprince31.vercel.app/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/reyesprince/)
+- Portfolio: [Portfolio Website](https://portfolio-reyesprince31.vercel.app/)
 
-## 🎯 My GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=reyesprince31&show_icons=true&hide=issues)](https://github.com/reyesprince31)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyesprince31&layout=compact&hide=ejs)](https://github.com/reyesprince31/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=reyesprince31)](https://git.io/streak-stats)
+## 
+| 🎯 My GitHub Stats |
+| -------- | 
+| [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=reyesprince31&show_icons=true&hide=issues)](https://github.com/reyesprince31) | 
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyesprince31&layout=compact&hide=ejs)](https://github.com/reyesprince31/github-readme-stats) | 
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=reyesprince31)](https://git.io/streak-stats) | 
+
+
+
 
 <!-- Optional: Add additional sections like projects, blog posts, or languages and tools you use. -->
 
