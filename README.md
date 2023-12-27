@@ -8,6 +8,7 @@ FullStack Web Developer
 
 <a href="https://www.github.com/reyesprince31" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/reyesprince31?logo=github&style=for-the-badge&color=ec4899&labelColor=181824" /></a>
+<br />
 ![](https://komarev.com/ghpvc/?username=reyesprince31)
 
 
