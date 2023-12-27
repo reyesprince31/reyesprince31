@@ -6,9 +6,10 @@ FullStack Web Developer
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=reyesprince31)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://komarev.com/ghpvc/?username=reyesprince31)
 <a href="https://www.github.com/reyesprince31" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/reyesprince31?logo=github&style=for-the-badge&color=ec4899&labelColor=181824" /></a>
+![](https://komarev.com/ghpvc/?username=reyesprince31)
+
 
 -----------------------
 
