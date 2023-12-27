@@ -1,12 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prince Reyes
 ====================================================================================================================================
 
+FullStack Web Developer
+-----------------------
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=reyesprince31)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=reyesprince31)
 
-FullStack Web Developer
 -----------------------
+
 
 Passionate Fullstack Developer (1 year), blending a business owner's hustle with tech magic. I dive deep, crafting user-friendly web apps in React.js and Node.js, from pristine code to intuitive UX. My 6-year entrepreneurial journey fuels my desire to turn ideas into reality, making life simpler and more fun. Let's collaborate and build something extraordinary, pixel by pixel!
 
