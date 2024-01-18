@@ -15,7 +15,7 @@ src="https://img.shields.io/github/followers/reyesprince31?logo=github&style=for
 -----------------------
 
 
-Passionate Fullstack Developer (1 year), blending a business owner's hustle with tech magic. I dive deep, crafting user-friendly web apps in React.js and Node.js, from pristine code to intuitive UX. My 6-year entrepreneurial journey fuels my desire to turn ideas into reality, making life simpler and more fun. Let's collaborate and build something extraordinary, pixel by pixel!
+Passionate Fullstack Developer, blending a business owner's hustle with tech magic. I dive deep, crafting user-friendly web apps in React.js and Node.js, from pristine code to intuitive UX. My 6-year entrepreneurial journey fuels my desire to turn ideas into reality, making life simpler and more fun. Let's collaborate and build something extraordinary, pixel by pixel!
 
 *   🌍  I'm based in Philippines, Quezon City
 *   🖥️  See my portfolio at [https://iamreyesprince.vercel.app/](https://iamreyesprince.vercel.app/)
