@@ -15,13 +15,13 @@ src="https://img.shields.io/github/followers/reyesprince31?logo=github&style=for
 -----------------------
 
 
-Passionate Fullstack Developer, blending a business owner's hustle with tech magic. I dive deep, crafting user-friendly web apps in React.js and Node.js, from pristine code to intuitive UX. My 6-year entrepreneurial journey fuels my desire to turn ideas into reality, making life simpler and more fun. Let's collaborate and build something extraordinary, pixel by pixel!
+Front-End Developer with Backend Savvy: I build pixel-perfect interfaces with React.js and CSS, but I don't stop there. My understanding of back-end technologies like Node.js, Python, PHP and APIs allows me to bridge the gap and collaborate seamlessly with full-stack teams. I'm passionate about creating user-friendly and performant web applications, and I'm always looking to expand my skillset.
 
 *   🌍  I'm based in Philippines, Quezon City
 *   🖥️  See my portfolio at [https://iamreyesprince.vercel.app/](https://iamreyesprince.vercel.app/)
 *   ✉️  You can contact me at [reyes.prince31@gmail.com](mailto:reyes.prince31@gmail.com)
 *   🚀  I'm currently working on [atvs\_supabase\_ecom](http://github.com/reyesprince31/atvs_supabase_ecom)
-*   🧠  I'm learning NextJS, TypeScript.
+*   🧠  I'm learning, Python/Django.
 *   🤝  I'm open to collaborating on Ecommerce, Web3 Projects.
 *   ⚡  I'm a Crypto and Forex Trader.
 
