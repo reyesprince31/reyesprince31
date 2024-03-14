@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prince Reyes
 ====================================================================================================================================
 
-FrontEnd React Developer
------------------------
+Software Engineer -----------------------
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=reyesprince31)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -15,7 +14,7 @@ src="https://img.shields.io/github/followers/reyesprince31?logo=github&style=for
 -----------------------
 
 
-Front-End Developer with Backend Savvy: I build pixel-perfect interfaces with React.js and CSS, but I don't stop there. My understanding of back-end technologies like Node.js, Python, PHP and APIs allows me to bridge the gap and collaborate seamlessly with full-stack teams. I'm passionate about creating user-friendly and performant web applications, and I'm always looking to expand my skillset.
+I plan, architect and build pixel-perfect interfaces with React.js and CSS, but I don't stop there. My understanding of back-end technologies like Node.js, Python, PHP and APIs allows me to bridge the gap and collaborate seamlessly with full-stack teams. I'm passionate about creating user-friendly and performant web applications, and I'm always looking to expand my skillset.
 
 *   🌍  I'm based in Philippines, Quezon City
 *   🖥️  See my portfolio at [https://iamreyesprince.vercel.app/](https://iamreyesprince.vercel.app/)
