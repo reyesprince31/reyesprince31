@@ -1,13 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prince Reyes
 ====================================================================================================================================
 
-Software Engineer -----------------------
+<a href="https://github.com/reyesprince31"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=50&pause=1000&center=true&vCenter=true&random=false&width=670&height=100&lines=Software+Engineer;Fullstack+Developer;UI+%2F+UX+Designer" alt="Typing SVG" /></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=reyesprince31)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://www.github.com/reyesprince31" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/reyesprince31?logo=github&style=for-the-badge&color=ec4899&labelColor=181824" /></a>
-<br />
+[![Portfolio](https://img.shields.io/badge/Portfolio-reyesprince31-black)](https://iamreyesprince.vercel.app/)
 ![](https://komarev.com/ghpvc/?username=reyesprince31)
 
 
@@ -25,11 +23,16 @@ I plan, architect and build pixel-perfect interfaces with React.js and CSS, but 
 *   ⚡  I'm a Crypto and Forex Trader.
 
 -----------------------
-### Skills
-
-<p align="left" style="background-color: #fff;">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored.svg" width="36" height="36" alt="Appwrite" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+<h2 align="left" id="macropower-tech">💻Tech Stack</h2>
+<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/43292234/179796781-dae1d1a3-93b0-4fbb-9f66-5fb71223ac8e.gif" width="85">
+  <img src="https://user-images.githubusercontent.com/43292234/179796789-1ad78c94-6e24-43a3-80c3-8d91ada3c864.gif" width="85">
+  <img src="https://user-images.githubusercontent.com/43292234/179796795-66b680c9-89db-4199-9fa7-336bc4aecd7b.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/43292234/179796796-7981daa3-f820-4c3b-a4ee-621a2798aa9e.gif" width="85">
+  <img src="https://user-images.githubusercontent.com/43292234/179796798-ddb3b6b4-d6ba-4043-9058-6a550c47f055.gif" width="85">
+  <img src="https://user-images.githubusercontent.com/43292234/179796802-6e14d467-4cf8-4894-b53e-b565d4e5372f.gif" width="187">
+</div>
 
 
 -----------------------
@@ -41,11 +44,10 @@ I plan, architect and build pixel-perfect interfaces with React.js and CSS, but 
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/reyesprince31"><img src="https://github-readme-stats.vercel.app/api?username=reyesprince31&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=a855f7&icon_color=ec4899&bg_color=181824&hide_border=true&show_icons=true" alt="reyesprince31's GitHub stats" /></a>
-
-<a href="http://www.github.com/reyesprince31"><img src="https://github-readme-streak-stats.herokuapp.com/?user=reyesprince31&stroke=a855f7&background=181824&ring=a855f7&fire=a855f7&currStreakNum=a855f7&currStreakLabel=a855f7&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
-
-<a href="https://github.com/reyesprince31" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyesprince31&langs_count=10&title_color=a855f7&text_color=a855f7&icon_color=ec4899&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reyesprince31&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyesprince31&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reyesprince31&locale=en&mode=weekly&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+</div>
 
 Thanks for visiting my profile! 😄
