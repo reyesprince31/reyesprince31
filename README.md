@@ -12,15 +12,40 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 -----------------------
 
 
-I plan, architect and build pixel-perfect interfaces with React.js and CSS, but I don't stop there. My understanding of back-end technologies like Node.js, Python, PHP and APIs allows me to bridge the gap and collaborate seamlessly with full-stack teams. I'm passionate about creating user-friendly and performant web applications, and I'm always looking to expand my skillset.
+I'm a Lead Software Engineer with a passion for building scalable, high-performance web applications. My expertise spans both frontend and backend technologies, allowing me to develop full-stack solutions that solve real-world problems. I specialize in architecting and delivering SaaS applications using cutting-edge technologies like Next.js, Supabase, and AWS.
 
-*   🌍  I'm based in Philippines, Quezon City
-*   🖥️  See my portfolio at [https://iamreyesprince.vercel.app/](https://iamreyesprince.vercel.app/)
-*   ✉️  You can contact me at [reyes.prince31@gmail.com](mailto:reyes.prince31@gmail.com)
-*   🚀  I'm currently working on [atvs\_supabase\_ecom](http://github.com/reyesprince31/atvs_supabase_ecom)
-*   🧠  I'm learning, Python/Django.
-*   🤝  I'm open to collaborating on Ecommerce, Web3 Projects.
-*   ⚡  I'm a Crypto and Forex Trader.
+🚀 I focus on launching MVPs fast, helping startups and businesses bring their ideas to market efficiently.
+
+## 🚀 Current Projects
+- **ProDesk**: A project management tool designed for creative agencies, built using Next.js and Supabase.
+- **MVPkit**: A SaaS starter kit for rapid MVP development, designed for both B2C and B2B applications.
+- **Codebility**: Optimized a multi-tenant SaaS platform for developer team management, enhancing scalability and performance.
+
+## 🛠️ Tech Stack
+- **Frontend**: React.js, Next.js, TailwindCSS, TypeScript
+- **Backend**: Node.js, Express.js, Supabase, PostgreSQL
+- **Cloud & Deployment**: AWS (S3, EC2, Amplify, RDS), Vercel, Supabase
+- **Testing**: Cypress, Vitest
+- **Tools**: Git, GitHub, Figma, Trello, Asana, Linear, Storybook
+
+## 👨‍💻 What I'm Working On
+- **Codebility**: Leading software engineering efforts, focusing on multi-tenant SaaS architecture and project management.
+- **MVPkit**: Building and optimizing a SaaS starter kit to help developers launch products faster with Next.js and Supabase.
+- **ProDesk**: Refining and scaling a project management tool for creative agencies, focusing on performance and real-time features.
+
+## 📚 What I'm Learning
+- Expanding my knowledge in **AI integration** with a focus on enhancing SaaS platforms.
+- Diving deeper into **multi-tenant architectures** and **microservices** to build scalable SaaS solutions.
+
+## 🌍 About Me
+- 🌍  I'm based in Quezon City, Philippines.
+- 🖥️  See my portfolio at [https://iamreyesprince.vercel.app/](https://iamreyesprince.vercel.app/)
+- ✉️  You can contact me at [reyes.prince31@gmail.com](mailto:reyes.prince31@gmail.com)
+- 🤝  I'm open to collaborating on **SaaS projects**, **MVP development**, and **Web3** innovations.
+
+## ⚡ Fun Fact
+- I'm also passionate about **mentoring** junior developers and helping them unlock their full potential.
+
 
 -----------------------
 <h2 align="left" id="macropower-tech">💻Tech Stack</h2>
